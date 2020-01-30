@@ -1,0 +1,18 @@
+Erie Boulevard Hydropower LP|2545|Bennetts Bridge|2628 County Road 22|Altmar|115
+Erie Boulevard Hydropower LP|2566|Fulton Hydro|28 South 1st Street|Fulton|34.5
+Erie Boulevard Hydropower LP|2569|Granby|16 Foster Street|Fulton|34.5
+Oswego City of|2574|High Dam|571 West First St.|Oswego|34.5
+Erie Boulevard Hydropower LP|2582|Lighthouse Hill|2365 County Route 22|Altmar|115
+Erie Boulevard Hydropower LP|2586|Minetto|2796 State Route 48|Minetto|34.5
+Exelon Nuclear|2589|Nine Mile Point Nuclear Station|PO Box 63|Lycoming|345
+NRG Oswego Harbor Power Operations Inc|2594|Oswego Harbor Power|261 Washington Blvd.|Oswego|345
+Erie Boulevard Hydropower LP|2595|Oswego Falls East|322 South 1st Street|Fulton|34.5
+Erie Boulevard Hydropower LP|2596|Oswego Falls West|249 Riverside Avenue|Fulton|34.5
+Erie Boulevard Hydropower LP|2621|Varick|411 West 1st Street|Oswego|34.5
+Exelon Nuclear|6110|James A Fitzpatrick|Lake Road|Lycoming|345
+Indeck-Oswego Ltd Partnership|50450|Indeck Oswego Energy Center|105 Mitchell St.|Oswego|115
+Oswego County|50907|Oswego County Energy Recovery|2801 State Route 481|Fulton|34.5
+Sithe/Independence LLC|54547|Sithe Independence Station|76 Independence Way|Oswego|345
+Eagle Creek RE LLC|54865|Phoenix Hydro Project|9450 River St|Phoenix|2.4
+Tesla Inc.|60462|Onondaga County- Clearwater|1633 Rathburn Road|Oswego|0.48
+Tesla Inc.|60818|Oswego County - Fulton Solar|3125 NY-3|Fulton|0.48
